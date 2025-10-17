@@ -34,11 +34,11 @@ Welcome to AI-Deep-Research! AI-Deep-Research is a open-source and cost-efficien
 
 * <a href='#features'>✨ Features</a>
 * <a href='#news'>🔥 News</a>
-* <a href='#why-to-release-auto-deep-research'>🧐 Why to release Auto-Deep-Research?</a>
+* <a href='#why-to-release-ai-deep-research'>🧐 Why release AI-Deep-Research?</a>
 * <a href='#quick-start'>⚡ Quick Start</a>
   * <a href='#installation'>Installation</a>
   * <a href='#api-keys-setup'>API Keys Setup</a>
-  * <a href='#start-auto-deep-research'>Start Auto-Deep-Research</a>
+  * <a href='#start-auto-deep-research'>Start AI-Deep-Research</a>
 * <a href='#todo'>☑️ Todo List</a>
 * <a href='#documentation'>📖 Documentation</a>
 * <a href='#cite'>🌟 Cite</a>
